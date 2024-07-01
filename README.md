@@ -1,4 +1,4 @@
-## Lede - Generate In-Depth Blog Content
+## Lede: Generate In-Depth Blog Content
 
 Most AI writing tools offer you a fancy editor with a few templates, some "AI tools" and a lot of promises. Lede is different. We focus on the research and writing process, allowing you to create well-researched content on any topic.
 
